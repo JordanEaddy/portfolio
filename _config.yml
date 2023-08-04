@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jordan Eaddy"
-  avatar           : "images\1profilepics.jpg"
+  avatar           : "1profilepics.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "USA"
   employer         : "Major League Baseball"
