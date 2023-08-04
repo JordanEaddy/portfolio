@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jordan's Portfolio Website"
+title: "👋🏽Hey, I'm Jordan!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the first page.
+🧑🏾‍💻I'm a graduate student at SMU
 
-This is a section
+👨🏾‍💼I work for a Major League Baseball club as their Pitching Lab Analyst
+
+Upon completion of my Business degree, I found myself yearning for another challenge. My curiosity has consistently been piqued by the intrigue of complex problem-solving. Consequently, I made the decision to expand my knowledge and delve into the multifaceted realm of data science. My goal is to explore how this discipline can be  applied across a diverse range of industries to drive innovation and progress.
+
+(/images\download.jpeg){: .align-right width = "300px"}
+💻In my free time, I find myself engrossed in literature pertaining to computer vision, a field that fascinates me immensely. My conviction is that the future of sports performance hinges significantly on biomechanics, and I anticipate that computer vision will serve a pivotal role in that area. The potential for this to revolutionize our understanding of human movement and athletic performance is vast, and I am excited to be part of the evolving narrative.
 ======
 
 
