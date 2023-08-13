@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jordan Eaddy's Portfolio"
+title                    : "Jordan's Portfolio"
 title_separator          : "-"
 name                     : &name "Jordan Eaddy"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jordan Eaddy"
   avatar           : "1profilepics.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "USA"
   employer         : "Major League Baseball"
   pubmed           : 
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jordan-eaddy-4b4b431a7/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "jordan-eaddy-4b4b431a7"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :

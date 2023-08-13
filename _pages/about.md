@@ -17,6 +17,5 @@ redirect_from:
 
 <img src="images/download.jpeg" alt="Description of Image" style="float:right; width:300px;">
 💻In my free time, I enjoy reading about computer vision. I believe that the next big leap in sports performance is closely tied to biomechanics. I see computer vision playing a central role in this shift. The chance to deepen our grasp of human movement and sports capabilities is thrilling, and I'm eager to be part of this ongoing story.
-======
 
 
