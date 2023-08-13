@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-🧑🏾‍💻 I'm a graduate student at SMU
+🧑🏾‍💻 I'm a graduate student at SMU.
 
-⚾ I work for a Major League Baseball club as their Pitching Lab Analyst
+⚾ I work for a Major League Baseball club as their Pitching Lab Analyst.
 
 🎓 Upon concluding my business degree, I felt a compelling desire for a fresh challenge. I've always been captivated by the art of intricate problem-solving. This led me to venture into the rich and varied domain of data science. I enjoy learning how the data scientist skillset can be harnessed to foster innovation across various industries.
 
