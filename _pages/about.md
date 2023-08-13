@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-🧑🏾‍💻 I'm a graduate student at SMU.
+🧑🏾‍💻 I'm a graduate student at SMU...
 
 ⚾ I work for a Major League Baseball club as their Pitching Lab Analyst.
 
